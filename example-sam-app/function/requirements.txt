@@ -1,2 +1,3 @@
+# Git URLでインストール（これは成功する）
 git+https://github.com/sambaiz/pip-install-from-git-test.git@main#subdirectory=stats-lib
 git+https://github.com/sambaiz/pip-install-from-git-test.git@main#subdirectory=text-lib
