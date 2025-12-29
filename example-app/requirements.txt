@@ -1,0 +1,2 @@
+git+https://github.com/sambaiz/python-libs.git@main#subdirectory=stats-lib
+git+https://github.com/sambaiz/python-libs.git@main#subdirectory=text-lib
